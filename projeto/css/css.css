@@ -11,7 +11,21 @@ body{
   padding: 10px;
 }
 
+.img {
+   background-image: url(/home/iboot/Área de trabalho/scripts/help/projeto/img/java.png)
+   background-repeat: no-repeat;
+   background-size:100%;
+   bottom: 0;
+   color: black;
+   left: 0;
+   overflow: auto;
+   padding: 3em;
+   position: absolute;
+   right: 0;
+   text-align: center;
+   top: 0;
 
+}
 .texto {
  font-family: times new roman;
  font-size: 17px;
